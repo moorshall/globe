@@ -1,0 +1,18 @@
+html {
+    background-color: #09090b;
+    color: white;
+}
+
+.container {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.globe-container {
+    max-width: 800px;
+    overflow-wrap: break-word;
+    text-align: center;
+}
